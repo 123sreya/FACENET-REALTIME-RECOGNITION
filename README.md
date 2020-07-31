@@ -33,3 +33,14 @@ SCIPY
 SCIKITLEARN
 
 MTCNN
+
+# PROCEDURE OF EXECUTION
+1.Run utils-consists all functions required.
+
+2.Run prepare_date-Encodings are extracted.
+
+3.Run Face_recognizer_camera-Faces are being recognized by comparision of encodings in Vedio capture.
+
+4.Attendance_facenet_project-Faces recognized are updated in an excel sheet with current date and time 
+
+  Note-before running above code create an empty csv file named "Attendance"
